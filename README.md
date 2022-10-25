@@ -113,7 +113,7 @@ Downsampled DP Point cloud             |  Normal Estimation | Triangulated surfa
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Screenshot from 2022-10-26 02-40-33](https://user-images.githubusercontent.com/31202659/197895652-2134ae20-0f3f-4606-b9ef-3241ffa3463a.png)  |  ![Screenshot from 2022-10-26 02-40-58](https://user-images.githubusercontent.com/31202659/197895658-50429a17-5d82-42dc-b603-dba65dfdecdc.png) | ![Screenshot from 2022-10-26 02-41-25](https://user-images.githubusercontent.com/31202659/197895659-d483b5ac-deff-46d8-9da2-01d9d5e59b37.png)
 
-We can tune the radius search size for normal estimation and triagulation. Some sample outputs are saved in `/results/3d` folder for more visualizations.
+We can tune the radius search size for normal estimation and triagulation.
 
 ### Results Folder
 In the repository, the results folder contain all the generated disparity images for metric evaluations. It also contains some other results. The name of the files display the algorithm and window size/lambda value used for each output. 

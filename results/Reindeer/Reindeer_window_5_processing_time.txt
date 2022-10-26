@@ -1,0 +1,3 @@
+Naive: 264.129 seconds
+Dynamic Programming: 421.693 seconds
+SGBM: 0.20117 seconds

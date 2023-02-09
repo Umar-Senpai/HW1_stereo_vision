@@ -1,5 +1,5 @@
-# HW1_stereo_vision
-This repository contains the solution to homework 1 for 3D Sensing and Sensor Fusion course
+# Stereo Vision: Match and Display
+This repository contains the solution to homework 1 for 3D Sensing and Sensor Fusion course at ELTE, Budapest. It implements stereo matching techniques and 3D displays using Point Cloud Library. 
 
 ## Subtask 1: Algorithms
 The main C++ file in `/src` named `main.cpp` implements three algorithms for generating disparity maps between a stereo pair of images. The implemented algorithms are:
